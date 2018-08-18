@@ -1,2 +1,5 @@
 # CodeRetry
-Generic Class For Code Retry Logic
+Generic class for Code Retry Implementation
+
+usage:
+
