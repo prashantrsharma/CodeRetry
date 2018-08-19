@@ -1,5 +1,5 @@
-# CodeRetry
-Generic class for Code Retry Implementation
+# C# CodeRetry
+Generic C# class for Code Retry Implementation
 
 Usage:
 Example 1 :
